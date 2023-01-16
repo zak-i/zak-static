@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>zak tech</title>
+	<title>Zak.so</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>leverage tech with zero prior knowledge</description>
-	<lastBuildDate>Mon, 28 Mar 2022 02:45:07 +0000</lastBuildDate>
+	<description>IT Solutions optimized for you</description>
+	<lastBuildDate>Sat, 14 Jan 2023 00:33:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-icon-blue-lg-32x32.png</url>
-	<title>zak tech</title>
+	<title>Zak.so</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
