@@ -1,2 +1,2 @@
 # zak-static
- zaktech.io headless
+static wordpress
